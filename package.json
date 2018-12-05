@@ -1,0 +1,19 @@
+{
+  "name": "v-calendar-work",
+  "version": "0.0.1",
+  "description": "日登记表",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zgmurder/v-calendar-work.git"
+  },
+  "author": "https://github.com/zgmurder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zgmurder/v-calendar-work/issues"
+  },
+  "homepage": "https://github.com/zgmurder/v-calendar-work#readme"
+}
